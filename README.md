@@ -1,4 +1,12 @@
 # Ph Bot
+* [`WhatsApp do bot `](https://wa.me/559193949559)
+
+
+
+
+
+
+
 Base WhatsApp Bot Multi Device
 
 

@@ -1,12 +1,4 @@
 # Ph Bot
-* [`WhatsApp do bot `](https://wa.me/559193949559)
-
-
-
-
-
-
-
 Base WhatsApp Bot Multi Device
 
 
@@ -19,7 +11,7 @@ Bot usando como base a api [`@adiwajshing/baileys-md`](https://github.com/adiwaj
 
 
 
-## Instalação em WINDOWS/RDP
+## InstalaÃ§Ã£o em WINDOWS/RDP
 
 * Instale o Git [`Abrir Link`](https://git-scm.com/downloads)
 * Instale o NodeJS [`Abrir Link`](https://nodejs.org/en/download)
@@ -45,7 +37,7 @@ cd botvip
 npm install
 ```
 
-## ERRO DE INSTALAÇÃO NOS MÓDULOS
+## ERRO DE INSTALAÃ‡ÃƒO NOS MÃ“DULOS
 
 ```bash
 npm i yarn -g
@@ -55,20 +47,26 @@ tsc -p ./node_modules/@adiwajshing/baileys/
 npm start
 ```
 
-## Inicialização
+## InicializaÃ§Ã£o
 ```bash
 $ node .
+$ sh start.sh 
 ```
+## ðŸ“¦ HOSPEDAGEM
 
+`herokuapp.com`
+`heroku.com`
 ## Agradeciemntos:
 * [`@Dark yt`](https://www.youtube.com/channel/UCcNXUT8f4grmNxQCxiZX95Q)
 * [`@Dark github`](https://github.com/DarkViPs)
 * [`@DikaArdnt - Base`](https://github.com/DikaArdnt)
 * [`@Mawy dev`](https://www.youtube.com/c/MawyDev)
 * [`@MarkosWythor`](https://github.com/markoswythorr)
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
+-----------
+* License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+----------- 
 ## Contatos & vendas de api:
 * [`WhatsApp Markos`](https://wa.me/5594991423691)
 * [`WhatsApp Dark`](https://wa.me/5517991134416)
+* [`WhatsApp ph`](https://wa.me/559193677572)
+
